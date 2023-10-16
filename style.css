@@ -67,13 +67,13 @@ section.imagem > p{
     border-radius: 5px;
 }
 section#img1{
-    background-image: url(../Poema/imagens/img001.jpg);
+    background-image: url(../Poesia-Suja-de-LA/imagens/img001.jpg);
     background-position: right, center;
     
 }
 
 section#img2{
-    background-image: url(../Poema/imagens/img002.jpg);
+    background-image: url(../Poesia-Suja-de-LA/imagens/img002.jpg);
     background-position: right, center;
 }
 footer{
